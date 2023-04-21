@@ -78,14 +78,17 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color:transparent;
 }
-
+.text1,
+text2 {
+    font-size:1rem;
+}
 .text3,
 .text4,
 .text5 {
     background: -webkit-linear-gradient(45deg,#e5c10a,#06d683 80%);
     -webkit-background-clip: text;
     -webkit-text-fill-color:transparent;
-    font-size: 1.1rem;
+    font-size: 0.5rem;
 }
 
 .text6,
@@ -95,7 +98,7 @@
     background: -webkit-linear-gradient(45deg,#edb007,#afe433 80%);
     -webkit-background-clip: text;
     -webkit-text-fill-color:transparent;
-    font-size: 1.1rem;
+    font-size: 0.5rem;
 }
 
 
@@ -157,11 +160,11 @@
 
 .eid1 {
     float:left;
-    height: 10rem;
+    height: 5rem;
 }
 .eid2 {
     float:right;
-    height: 10rem;
+    height: 5rem;
 }
 
 .peluk1 {
@@ -169,14 +172,14 @@
   float:left;
   bottom: 0;
   left:0;
-  height: 10rem;
+  height: 5rem;
 }
 .peluk2 {
   position: absolute;
   float:right;
   bottom: 0;
   right: 0;
-  height: 10rem;
+  height: 5rem;
 }
 
 h1 {
@@ -199,9 +202,7 @@ p {
 }
 body{
     background-image: url("bg1.jpg");
-    background-repeat: no-repeat;
     background-size: cover;
-    background-position:center;
   }
   #happy {
     position:absolute;
