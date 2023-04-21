@@ -50,7 +50,7 @@ body{
     font-size: 2rem;
     font-family: Verdana;
     position: absolute;
-    top: 20%;
+    top: 25%;
     left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -119,7 +119,7 @@ body{
   width:600px;
   height:36px;
   left:50%;
-  top:55%;
+  top:40%;
   margin-left:-300px;
   overflow:visible;
   -webkit-user-select:none;
@@ -187,7 +187,7 @@ body{
   width:600px;
   height:36px;
   left:50%;
-  top:60%;
+  top:43%;
   margin-left:-300px;
   overflow:visible;
   -webkit-user-select:none;
@@ -255,7 +255,7 @@ body{
   width:600px;
   height:36px;
   left:50%;
-  top:65%;
+  top:46%;
   margin-left:-300px;
   overflow:visible;
   -webkit-user-select:none;
