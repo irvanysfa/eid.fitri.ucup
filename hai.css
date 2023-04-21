@@ -61,7 +61,6 @@ body{
     position: fixed;
     left: 50%;
     top:40%;
-    bottom: 20px;
     transform: translateX(-50%);
   }
 
