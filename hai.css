@@ -28,7 +28,7 @@ body{
     color: white;
     font-family: Verdana;
     position: absolute;
-    top: 40%;
+    top: 20%;
     left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -38,7 +38,7 @@ body{
     color:rgb(244, 163, 42);
     font-family: Arial;
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
 
@@ -48,7 +48,7 @@ body{
   color:rgb(248, 154, 12);
   font-family: Arial;
   position: absolute;
-  top: 55%;
+  top: 35%;
   left: 50%;
   transform: translate(-50%, -50%);
 
