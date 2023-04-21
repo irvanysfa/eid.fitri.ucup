@@ -133,6 +133,7 @@ body{
   width:20px;
   height:36px;
   opacity:0;
+  font-size:2rem;
   font-family:Helvetica, Arial, sans-serif;
   animation:move 2s linear infinite;
   -o-animation:move 2s linear infinite;
@@ -199,6 +200,7 @@ body{
 #eid div {
   position:absolute;
   width:20px;
+  font-size:2rem;
   height:36px;
   opacity:0;
   font-family:Helvetica, Arial, sans-serif;
@@ -269,6 +271,7 @@ body{
   position:absolute;
   width:20px;
   height:36px;
+  font-size:2rem;
   opacity:0;
   font-family:Helvetica, Arial, sans-serif;
   animation:move 2s linear infinite;
